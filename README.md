@@ -126,7 +126,7 @@
             <a href='https://itmo-travell.vercel.app' target="_blank" title='Просмотр демо-версии'>Travell</a>
             </h3>
                 <p><a href='https://github.com/tonyap92/itmo-travell' target="_blank" title='Открыть репозиторий'>Открыть репозиторий</a></p>
-                <p>Nuxt 3, Pinia, JavaScript, Prisma, Supabase</p>
+                <p>Nuxt 3, Pinia, Vueuse, JavaScript, Tailwind, Prisma, Supabase</p>
             </td>
         </tr>
          <tr>
@@ -137,7 +137,7 @@
             <h3><a href='#' title='Просмотр демо-версии'>Сайт с позициями для сделок</a>
             </h3>
                 <p><a href='https://github.com/tonyap92/bb-test-task' target="_blank" title='Открыть репозиторий'>Открыть репозиторий</a></p>
-                <p>Nuxt 3, Pinia, JavaScript, Prisma, Supabase</p>
+                <p>Nuxt 3, Pinia, JavaScript, Vueuse, Prisma, Supabase</p>
             </td>
         </tr>
          <tr>
@@ -148,7 +148,7 @@
             <h3><a href='https://calendar-tonyap92.vercel.app/' target="_blank" title='Просмотр демо-версии'>Календарь</a>
             </h3>
                 <p><a href='https://github.com/tonyap92/calendar' target="_blank" title='Открыть репозиторий'>Открыть репозиторий</a></p>
-                <p>Vue, Pinia, JavaScript, Prisma, Supabase</p>
+                <p>Vue, JavaScript, Tailwind</p>
             </td>
         </tr>
          <tr>
