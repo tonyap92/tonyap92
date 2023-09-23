@@ -114,7 +114,7 @@
             <a href='https://drag-and-drop-inventory-sigma.vercel.app/' target="_blank" title='Просмотр демо-версии'>Drag and Drop Inventory</a>
             </h3>
                 <p><a href='https://github.com/tonyap92/drag-and-drop-inventory' target="_blank" title='Открыть репозиторий'>Открыть репозиторий</a></p>
-                <p>Vue3, JavaScript</p>
+                <p>Vue 3 Сomposition API, JavaScript</p>
             </td>
         </tr>
         <tr>
@@ -161,7 +161,7 @@
             <h3><a href='https://calendar-tonyap92.vercel.app/' target="_blank" title='Просмотр демо-версии'>Календарь</a>
             </h3>
                 <p><a href='https://github.com/tonyap92/calendar' target="_blank" title='Открыть репозиторий'>Открыть репозиторий</a></p>
-                <p>Vue, JavaScript, Tailwind</p>
+                <p>Vue 3 Сomposition API, JavaScript, Tailwind</p>
             </td>
         </tr>
          <tr>
