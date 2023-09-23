@@ -105,6 +105,19 @@
 #### Мои проекты
 
 <table>
+       <tr>
+            <td width='320px'>
+                    <img src='https://github.com/tonyap92/drag-and-drop-inventory/assets/114396404/82cce07a-d6f3-447b-ba4f-3ffb969f444a' width='300px'>
+            </td> 
+            <td>
+            <h3>
+            <a href='https://drag-and-drop-inventory-sigma.vercel.app/' target="_blank" title='Просмотр демо-версии'>Drag and Drop Inventory</a>
+            </h3>
+                <p><a href='https://github.com/tonyap92/books-api' target="_blank" title='Открыть репозиторий'>Открыть репозиторий</a></p>
+                <p>Vue3, JavaScript</p>
+            </td>
+        </tr>
+        <tr>
 <tr>
             <td width='320px'>
                     <img src='https://github.com/tonyap92/books-api/assets/114396404/e4e30b9d-bab0-4dc2-890c-546b065cadb4' width='300px'>
