@@ -71,7 +71,20 @@
                     title='Открыть репозиторий'>Открыть
                     репозиторий</a></p>
             <p>Html5, CCS3, LESS, JavaScript</p>
-            <br>
+        </td>
+    </tr>
+        <tr>
+        <td width='320px'>
+            <img src='https://github.com/tonyap92/Yandex-Crowd-Project/assets/114396404/98a52e18-ee5f-435d-bf4f-4f6d4d21fc3a'
+                width='300px'>
+        </td>
+        <td>
+            <h3><a href='https://yandex-crowd-project-roan.vercel.app/' target="_blank"
+                    title='Просмотр демо-версии'>Лэндинг клуба четырех коней</a>
+            </h3>
+            <p><a href='https://github.com/tonyap92/Yandex-Crowd-Project' target="_blank" title='Открыть репозиторий'>Открыть
+                    репозиторий</a></p>
+            <p>HTML5, CCS3, JS</p>
         </td>
     </tr>
     <tr>
