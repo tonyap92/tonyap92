@@ -75,6 +75,21 @@
     </tr>
         <tr>
         <td width='320px'>
+            <img src='https://github.com/tonyap92/game-hello/assets/114396404/a5c09713-d8fd-4ba0-9f20-59e69bcaf53e'
+                width='300px'>
+        </td>
+        <td>
+            <h3><a href='https://game-hello.vercel.app/' target="_blank" title='Просмотр демо-версии'>Hello Game
+                </a>
+            </h3>
+            <p><a href='https://github.com/tonyap92/game-hello' target="_blank"
+                    title='Открыть репозиторий'>Открыть
+                    репозиторий</a></p>
+            <p>Html5, CCS3, LESS, JavaScript</p>
+        </td>
+    </tr>
+        <tr>
+        <td width='320px'>
             <img src='https://github.com/tonyap92/Yandex-Crowd-Project/assets/114396404/98a52e18-ee5f-435d-bf4f-4f6d4d21fc3a'
                 width='300px'>
         </td>
