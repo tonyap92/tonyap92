@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 ПАВЛОВА АНТОНИНА
 
-- 👩 Frontend Developer
+- 👩 Junior Frontend Developer
 - 🌱 Я хочу развиваться в Javascript, Vue.
 - [ РЕЗЮМЕ ](https://hh.ru/resume/aa0c2eaaff0b58565e0039ed1f6b50384f4a70)
 
