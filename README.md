@@ -59,7 +59,7 @@
     </tr>
     <tr>
         <td width='320px'>
-            <img src='https://github.com/tonyap92/Smashbox-Primer-Test/assets/114396404/f70b4429-36db-4be6-a7b2-dbea8db15bf7'
+            <img src='https://github.com/tonyap92/Smashbox-Primer-Test/blob/master/preview/SBX_Primers_LP_RG_Page1.jpg?raw=true'
                 width='300px'>
         </td>
         <td>
@@ -75,7 +75,7 @@
     </tr>
         <tr>
         <td width='320px'>
-            <img src='https://github.com/tonyap92/game-hello/assets/114396404/a5c09713-d8fd-4ba0-9f20-59e69bcaf53e'
+            <img src='https://github.com/tonyap92/game-hello/blob/master/preview/%D0%9D%D0%90%D0%A7%D0%90%D0%9B%D0%AC%D0%9D%D0%90%D0%AF%20%D0%A1%D0%A2%D0%A0%D0%90%D0%9D%D0%98%D0%A6%D0%90.png?raw=true'
                 width='300px'>
         </td>
         <td>
@@ -90,7 +90,7 @@
     </tr>
         <tr>
         <td width='320px'>
-            <img src='https://github.com/tonyap92/Yandex-Crowd-Project/assets/114396404/98a52e18-ee5f-435d-bf4f-4f6d4d21fc3a'
+            <img src='https://github.com/tonyap92/Yandex-Crowd-Project/blob/main/preview/1366%20desktop.png?raw=true'
                 width='300px'>
         </td>
         <td>
